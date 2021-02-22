@@ -1,0 +1,27 @@
+{
+  "customers": [
+    {
+      "name": "Arlindo Soares",
+      "cpf": "928283890389",
+      "gender": "m",
+      "adress": "Rua dos Anjos",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "description": "Feijão Carioca Tio Pedro",
+      "stockAmount": "12",
+      "price": "9.99",
+      "maxDiscount": "2",
+      "id": 1
+    },
+    {
+      "description": "Arroz Parbolizado Tio João",
+      "stockAmount": "15",
+      "price": "4.99",
+      "maxDiscount": "1",
+      "id": 2
+    }
+  ]
+}

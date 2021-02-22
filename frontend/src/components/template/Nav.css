@@ -1,0 +1,16 @@
+aside.menu-area{
+  background-color: #5d0f6d;
+  box-shadow: 2px 0 10px 0 rgba(0, 0, 0, 0.12),
+              2px 0 10px 0 rgba(0, 0, 0, 0.09);
+}
+.menu a{
+  display: block;
+  text-align: left;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 300;
+  padding: 15px;
+}
+.menu a:hover{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(93,15,109,1) 19%, rgba(0,212,255,1) 100%);
+}

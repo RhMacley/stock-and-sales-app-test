@@ -1,0 +1,12 @@
+aside.logo{
+  background-color: rgb(93, 15, 109);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+.logo a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  text-align: center;
+}
